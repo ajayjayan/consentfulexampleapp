@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+the-example-app-nodejs.contentful.com	TRUE	/	FALSE	1999999999	theExampleAppSettings	j%3A%7B%22spaceId%22%3A%22qz0n5cdakyl9%22%2C%22deliveryToken%22%3A%22580d5944194846b690dd89b630a1cb98a0eef6a19b860ef71efc37ee8076ddb8%22%2C%22previewToken%22%3A%22e8fc39d9661c7468d0285a7ff949f7a23539dd2e686fcb7bd84dc01b392d698b%22%2C%22editorialFeatures%22%3Afalse%7D
+the-example-app-nodejs.contentful.com	TRUE	/	FALSE	1999999999	visitedLessons	j%3A%5B%221toEOumnkEksWakieoeC6M%22%2C%2234MlmiuMgU8wKCOOIkAuMy%22%2C%223op5VIqGZiwoe06c8IQIMO%22%2C%225p9qNpTOJaCE6ykC4a8Wqg%22%2C%221zwAjpe38UC8iqKMM6gu0Q%22%2C%223KinTi83FecuMeiUo0qGU4%22%2C%225mgMoU9aCWE88SIqSIMGYE%22%2C%223jkW4CdxPqu8Q2oSgCeOuy%22%2C%22Dy6jo5j4goU2C4sc8Kwkk%22%2C%221HR1QvURo4MoSqO0eqmUeO%22%2C%225VWYVBc39Cia0sqqaeyiIW%22%5D
+
